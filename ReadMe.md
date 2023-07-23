@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Abhishek Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/ABHISHEK369G/ABHISHEK369G/assets/105292816/8e334b35-6397-4dab-b454-c2ca7eadd1ee)">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek369g&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek369g" /> </p>
 
