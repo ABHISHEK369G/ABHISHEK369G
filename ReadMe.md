@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Abhishek Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/ABHISHEK369G/ABHISHEK369G/assets/105292816/8e334b35-6397-4dab-b454-c2ca7eadd1ee)>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek369g&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek369g" /> </p>
 
 - 🔭 I’m currently working on **Multiple Project to learn MERN Stack.**
