@@ -1,13 +1,11 @@
 <h1 align="center">Hi , I'm Abhishek Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek369g&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek369g" /> </p>
 
-- 🔭 I’m currently working on **Multiple Project to learn MERN Stack.**
-
-- 🌱 I’m currently learning **MERN Stack.**
+- 🔭 I’m currently working on **Angular & SpringBoot.**
 
 - 💬 Ask me about **Web Development.**
 
@@ -23,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek369g&show_icons=true&locale=en&layout=compact" alt="abhishek369g" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek369g&show_icons=true&locale=en" alt="abhishek369g" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek369g&" alt="abhishek369g" /></p>
