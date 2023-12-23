@@ -17,7 +17,7 @@
 -   How to reach me: abhig7545@gmail.com
 ***
 
-<h5 align="left">Programming Languages</h5>
+<h3 align="left">Programming Languages</h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h5 align="left">Web Development</h5>
+<h3 align="left">Web Development</h3>
 
 ###
 
