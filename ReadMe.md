@@ -2,11 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek369g&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek369g" /> </p>
 
-- 🔭 I’m currently working on **Angular & SpringBoot.**
-
-- 💬 Ask me about **Web Development.**
-
-- 📫 How to reach me **abhig7545@gmail.com**
+-  I’m currently working on **Angular & SpringBoot.**
+-   Ask me about **Web Development.**
+-  Here is  [**MyPortfolio**](https://abhishek369g.github.io/MyPortfolio/). Check it out now.
+-   How to reach me: abhig7545@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
