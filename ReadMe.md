@@ -1,7 +1,4 @@
-<h1 align="center">Hi , I'm Abhishek Gupta</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-
-
+# Abhishek Gupta
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek369g&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek369g" /> </p>
 
